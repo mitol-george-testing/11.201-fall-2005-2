@@ -1,0 +1,32 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "321876c7-f4e8-cab8-173c-d2af1e28554d",
+      "e539f144-0abc-1876-1406-78a60fb4c81f",
+      "e1522b9e-9f85-540e-cfa3-3f1fdf5e7a2d",
+      "4fdc2f44-984c-d6f6-4e65-f7cee55b5a9b",
+      "24deb6b7-2749-e2ba-080c-7dd80b12d082"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Gateway: Planning Action",
+  "course_description": "This course introduces persistent themes and challenges facing planners. It emphasizes the historical roots of contemporary urban planning problems and comparative study of practice in the U.S. and other countries. It is a nine week module intended for first semester Master in City Planning students.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.201",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Activity Assignments"
+  ],
+  "title": "Course Metadata"
+}
